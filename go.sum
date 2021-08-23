@@ -1,0 +1,7 @@
+github.com/lindsaygelle/nook v0.4.0 h1:iQ67xOtyty55zfi4MbfOeEcVS6ylHDFGQN+iD7Nw3NY=
+github.com/lindsaygelle/nook v0.4.0/go.mod h1:2El8UKeqT4JpO+IWvtSDrRxXDSOZM7ZjfuLoxHWsY74=
+github.com/lindsaygelle/w3g v0.1.0 h1:WsF1CrGV4mg0DBnb0SShoD/z9oDACq2wN4V3qR6qezY=
+github.com/lindsaygelle/w3g v0.1.0/go.mod h1:B4aE3dl7D2S68DUulP+vx4SGdTc4oSIKWNPy3o6gB2Q=
+golang.org/x/text v0.3.7 h1:olpwvP2KacW1ZWvsR7uQhoyTYvKAupfQrRGBFM352Gk=
+golang.org/x/text v0.3.7/go.mod h1:u+2+/6zg+i71rQMx5EYifcz6MCKuco9NR6JIITiCfzQ=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=

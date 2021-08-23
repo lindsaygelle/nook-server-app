@@ -1,0 +1,11 @@
+version: "3"
+
+services: 
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: "nook-server-app"
+    image: nook-server-app:latest
+    ports: 
+      - "8080:8080"
